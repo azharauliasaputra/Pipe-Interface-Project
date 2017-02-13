@@ -1,0 +1,36 @@
+c:\users\azhar aulia saputra\documents\visual studio 2015\Projects\PipeInterface\PipeInterface\bin\Debug\PipeInterface.exe.config
+C:\Users\Azhar Aulia Saputra\Documents\Visual Studio 2015\Projects\PipeInterface\PipeInterface\bin\Debug\PipeInterface.exe
+C:\Users\Azhar Aulia Saputra\Documents\Visual Studio 2015\Projects\PipeInterface\PipeInterface\bin\Debug\PipeInterface.pdb
+C:\Users\Azhar Aulia Saputra\Documents\Visual Studio 2015\Projects\PipeInterface\PipeInterface\bin\Debug\OzekiSDK.dll
+C:\Users\Azhar Aulia Saputra\Documents\Visual Studio 2015\Projects\PipeInterface\PipeInterface\obj\Debug\PipeInterface.csprojResolveAssemblyReference.cache
+C:\Users\Azhar Aulia Saputra\Documents\Visual Studio 2015\Projects\PipeInterface\PipeInterface\obj\Debug\PipeInterface.Form1.resources
+C:\Users\Azhar Aulia Saputra\Documents\Visual Studio 2015\Projects\PipeInterface\PipeInterface\obj\Debug\PipeInterface.Properties.Resources.resources
+C:\Users\Azhar Aulia Saputra\Documents\Visual Studio 2015\Projects\PipeInterface\PipeInterface\obj\Debug\PipeInterface.csproj.GenerateResource.Cache
+C:\Users\Azhar Aulia Saputra\Documents\Visual Studio 2015\Projects\PipeInterface\PipeInterface\obj\Debug\PipeInterface.exe
+C:\Users\Azhar Aulia Saputra\Documents\Visual Studio 2015\Projects\PipeInterface\PipeInterface\obj\Debug\PipeInterface.pdb
+C:\Users\Azhar Aulia Saputra\documents\visual studio 2015\Projects\PipeInterface\PipeInterface\bin\Debug\Interop.WMPLib.dll
+C:\Users\Azhar Aulia Saputra\documents\visual studio 2015\Projects\PipeInterface\PipeInterface\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Azhar Aulia Saputra\documents\visual studio 2015\Projects\PipeInterface\PipeInterface\obj\Debug\Interop.WMPLib.dll
+C:\Users\Azhar Aulia Saputra\documents\visual studio 2015\Projects\PipeInterface\PipeInterface\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Azhar Aulia Saputra\documents\visual studio 2015\Projects\PipeInterface\PipeInterface\obj\Debug\PipeInterface.csproj.ResolveComReference.cache
+C:\Users\Azhar Aulia Saputra\Documents\Visual Studio 2015\Projects\PipeInterface\PipeInterface\obj\Debug\PipeInterface.SettingForm.resources
+C:\Users\Azhar Aulia Saputra\Documents\Visual Studio 2015\Projects\PipeInterface\PipeInterface\obj\Debug\PipeInterface.Version.resources
+C:\Users\Azhar Aulia Saputra\Documents\Pipe Interface\PipeInterface\PipeInterface\bin\Debug\PipeInterface.exe.config
+C:\Users\Azhar Aulia Saputra\Documents\Pipe Interface\PipeInterface\PipeInterface\obj\Debug\Interop.WMPLib.dll
+C:\Users\Azhar Aulia Saputra\Documents\Pipe Interface\PipeInterface\PipeInterface\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Azhar Aulia Saputra\Documents\Pipe Interface\PipeInterface\PipeInterface\obj\Debug\PipeInterface.csproj.ResolveComReference.cache
+C:\Users\Azhar Aulia Saputra\Documents\Pipe Interface\PipeInterface\PipeInterface\obj\Debug\PipeInterface.exe
+C:\Users\Azhar Aulia Saputra\Documents\Pipe Interface\PipeInterface\PipeInterface\obj\Debug\PipeInterface.pdb
+C:\Users\Azhar Aulia Saputra\Documents\Pipe Interface\PipeInterface\PipeInterface\bin\Debug\PipeInterface.exe
+C:\Users\Azhar Aulia Saputra\Documents\Pipe Interface\PipeInterface\PipeInterface\bin\Debug\PipeInterface.pdb
+C:\Users\Azhar Aulia Saputra\Documents\Pipe Interface\PipeInterface\PipeInterface\bin\Debug\Interop.WMPLib.dll
+C:\Users\Azhar Aulia Saputra\Documents\Pipe Interface\PipeInterface\PipeInterface\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Azhar Aulia Saputra\Documents\Pipe Interface\PipeInterface\PipeInterface\obj\Debug\PipeInterface.csprojResolveAssemblyReference.cache
+C:\Users\Azhar Aulia Saputra\Documents\Pipe Interface\PipeInterface\PipeInterface\obj\Debug\PipeInterface.Form1.resources
+C:\Users\Azhar Aulia Saputra\Documents\Pipe Interface\PipeInterface\PipeInterface\obj\Debug\PipeInterface.Properties.Resources.resources
+C:\Users\Azhar Aulia Saputra\Documents\Pipe Interface\PipeInterface\PipeInterface\obj\Debug\PipeInterface.SettingForm.resources
+C:\Users\Azhar Aulia Saputra\Documents\Pipe Interface\PipeInterface\PipeInterface\obj\Debug\PipeInterface.Version.resources
+C:\Users\Azhar Aulia Saputra\Documents\Pipe Interface\PipeInterface\PipeInterface\obj\Debug\PipeInterface.csproj.GenerateResource.Cache
+C:\Users\Azhar Aulia Saputra\Documents\Pipe Interface\PipeInterface\PipeInterface\bin\Debug\zh\PipeInterface.resources.dll
+C:\Users\Azhar Aulia Saputra\Documents\Pipe Interface\PipeInterface\PipeInterface\obj\Debug\PipeInterface.SettingForm.zh.resources
+C:\Users\Azhar Aulia Saputra\Documents\Pipe Interface\PipeInterface\PipeInterface\obj\Debug\zh\PipeInterface.resources.dll
